@@ -29,6 +29,8 @@ const IncomeExpenses = () => {
           <p  className="money minus">{expense}</p>
         </div>
       </div>
+
+      
   )
 }
 
